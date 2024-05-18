@@ -1,5 +1,5 @@
 ## Priming
-![](img/v2.png)
+![](v2.png)
 
 Este é um projeto de pesquisa chamado "Semantic Priming Project" financiado pela National Science Foundation e conduzido por um laboratório de atenção e memória no Departamento de Psicologia. O projeto ocorreu de 1 de agosto de 2006 a 30 de junho de 2010 e envolveu várias instituições acadêmicas como Montana State University, Washington University, SUNY Albany e University of Nebraska, Omaha.
 
