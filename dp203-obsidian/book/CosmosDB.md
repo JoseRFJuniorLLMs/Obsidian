@@ -1,3 +1,7 @@
+---
+tags:
+  - CosmosDB
+---
 [[Global Distributed]]
 [[Multimodal]]
 [[Offer sub second]]

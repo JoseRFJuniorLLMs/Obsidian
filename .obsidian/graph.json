@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#AI-900  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#AzureSynapse  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#DP-203  ",
+      "color": {
+        "a": 1,
+        "rgb": 14133842
+      }
+    },
+    {
+      "query": "tag:#DataStorage  ",
+      "color": {
+        "a": 1,
+        "rgb": 13475922
+      }
+    },
+    {
+      "query": "tag:#DataSecurity  ",
+      "color": {
+        "a": 1,
+        "rgb": 13475922
+      }
+    },
+    {
+      "query": "tag:#Databricks  ",
+      "color": {
+        "a": 1,
+        "rgb": 13541714
+      }
+    },
+    {
+      "query": "tag:#OptimizeStorageProcessing  ",
+      "color": {
+        "a": 1,
+        "rgb": 13541714
+      }
+    },
+    {
+      "query": "tag:#CosmosDB  ",
+      "color": {
+        "a": 1,
+        "rgb": 13544018
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.09392927902847233,
+  "close": true
+}

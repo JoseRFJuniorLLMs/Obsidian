@@ -1,0 +1,223 @@
+.main-container {
+	/*overflow: scroll;*/
+	position: relative;
+}
+
+.cat-selector-container {
+	display: flex;
+	justify-content: space-around;
+
+	transition: 0.25s;
+	height: 50vh;
+	overflow: scroll;
+}
+
+.shrink-cat-select {
+	height: 0;
+}
+
+.qb-input-container {
+	padding: 1vh;
+	border-radius: 1.5vh;
+}
+
+.qb-input-container .qb-query {
+	width: 100%;
+}
+
+.qb-input-container .qb-input-row {
+	display: flex;
+	position: relative;
+	width: 100%;
+	justify-content: center;
+	overflow: visible;
+}
+
+.qb-input-row p {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.num-questions {
+	width: 5vw;
+}
+
+.sentence {
+	transition: 0.25s;
+}
+
+.sentence:hover {
+	background-color: #FFFF00;
+	color: black;
+}
+
+.search-output {
+	background-color: green;
+}
+
+.button-empty {
+	background-color: black;
+}
+
+.category-flex {
+	display: flex;
+	flex-direction: column;
+	width: 35%;
+
+	text-align: center;
+}
+
+.subj-button-transition {
+	transition: 0.1s;
+}
+
+.difficulty-selector {
+	display: flex;
+	height: 3vh;
+
+	transition: 0.25s;
+}
+
+.difficulty-selector input {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.difficulty-selector p {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.difficulty-container {
+	position: relative;
+}
+
+.difficulty-dropdown {
+	position: absolute;
+	width: 15vw;
+	height: 30vh;
+	transition: 0.25s;
+
+	overflow: hidden;
+
+	background-color: #43465a;
+	border-radius: 6px;
+	opacity: 1;
+	z-index: 10;
+
+}
+
+.diff-drop-inactive {
+	height: 0;
+}
+
+
+.diff-item-active {
+	background-color: #284552;
+}
+
+.toggle-button {
+	transition: 0.25s;
+}
+
+.loading-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 3vh;
+}
+
+.top-scroll-button {
+	position: absolute;
+	/*width: 15%;*/
+	bottom: 4%;
+	left: 70%;
+
+	transition: 0.25s;
+}
+
+.scroll-button-inactive {
+	bottom: -10%;
+}
+
+
+/*Popup stuff */
+
+/* Popup container */
+.qb-popup {
+	width: 100%;
+	position: relative;
+	display: inline;
+	cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.qb-popup .qb-popup-text {
+	visibility: hidden;
+	min-width: 160px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 12px;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -160px;
+}
+
+/* Popup arrow */
+.qb-popup .qb-popup-text::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.qb-popup .qb-show {
+	visibility: visible;
+	-webkit-animation: fadeIn 0.2s;
+	animation: fadeIn 0.2s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+	from {opacity: 0;}
+	to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+	from {opacity: 0;}
+	to {opacity:1 ;}
+}
+
+/*Search stuff */
+
+body .qb-reader__search-wrapper {
+	background-color: var(--background-primary);
+	/*border-bottom: 1px solid var(--shade-plus-darker);*/
+}
+
+.qb-reader__search-wrapper {
+	/*width: 60%;*/
+	position: fixed;
+	top: calc(var(--header-height) - 6px);
+	right: 0;
+	padding: 10px 13px;
+	display: inline-flex;
+	justify-content: flex-end;
+	align-items: center;
+	z-index: 20;
+	background-color: var(--background-secondary);
+	border-bottom: 1px solid var(--background-modifier-border);
+	border-left: 1px solid var(--background-modifier-border);
+
+	border-bottom-left-radius: 2vh;
+}
+
+
