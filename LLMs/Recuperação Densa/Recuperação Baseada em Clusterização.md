@@ -1,0 +1,2 @@
+- Os documentos são agrupados em clusters com base em sua semelhança.
+- A recuperação é realizada primeiro identificando o cluster relevante e, em seguida, buscando os documentos dentro desse cluster.

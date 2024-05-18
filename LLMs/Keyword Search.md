@@ -1,0 +1,1 @@
+Este é o método antigo com o qual estamos mais familiarizados. Insira uma palavra ou frase e essa pesquisa se concentrará nesses termos exatos ou em termos intimamente relacionados no banco de dados ou na coleção de documentos.

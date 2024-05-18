@@ -1,0 +1,2 @@
+- Os documentos são mapeados para representações binárias usando funções de hash.
+- A recuperação é feita calculando a similaridade de Hamming entre as representações binárias dos documentos e consultas.

@@ -1,0 +1,2 @@
+- Esses modelos, como o Dense Retrieval do Facebook, armazenam documentos em uma memória distribuída.
+- A recuperação é feita consultando essa memória distribuída para recuperar documentos relevantes.

@@ -1,0 +1,6 @@
+---
+tags:
+  - KNOW
+---
+[[about]]
+[[well]]

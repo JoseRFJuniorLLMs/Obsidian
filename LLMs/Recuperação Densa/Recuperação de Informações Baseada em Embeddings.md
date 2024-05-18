@@ -1,0 +1,2 @@
+- Nessa abordagem, os documentos são representados como vetores densos de alta dimensionalidade (embeddings) usando técnicas como Word Embeddings (Word2Vec, GloVe) ou Embeddings de Sentenças (Doc2Vec, Sent2Vec).
+- A recuperação é feita calculando a similaridade entre os embeddings dos documentos e as consultas do usuário.

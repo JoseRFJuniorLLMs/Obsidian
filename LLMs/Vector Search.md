@@ -1,0 +1,1 @@
+Ao contrário de sua contraparte, a pesquisa vetorial não se contenta com meras palavras. Funciona utilizando significado semântico, visando discernir o contexto ou significado subjacente da consulta. Isso garante que mesmo que suas palavras não correspondam exatamente a um documento, se o significado for relevante, ele será buscado.

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d7ec9070f560dc53",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dad468a401ed6d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28273d57729dc59a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dfa31c0f1a1a379",
+    "type": "split",
+    "children": [
+      {
+        "id": "491c9603a7ebbbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836a72da80909bfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d6b4023b7f1a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43daa0d26ebbe218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "7fb2b34e1352be8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc38fe155fe5fd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e9c4552e5a0a17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dec02165e82e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c7939e2f28e739a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04511046bd8a54d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "30a01ed0b14a30a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d42c23d294f1cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "28273d57729dc59a",
+  "lastOpenFiles": [
+    "Driver node and executors.md",
+    "DP-203.md",
+    "AzureSynapse/Data Explorer.md",
+    "AzureSynapse/Create table structure in synapse.md",
+    "AzureSynapse/Create external datasource.md",
+    "AzureSynapse/Create and setup a Synapse workspace.md",
+    "AzureSynapse/Create and set up a Synapse workspace.md",
+    "AzureSynapse/Analyze using Apache Spark.md",
+    "AzureSynapse/Analyze using a Data Explorer pool.md",
+    "AzureSynapse/Apache Spark.md",
+    "AzureSynapse/Analyze using a serverless SQL pool.md",
+    "Data Flows.md",
+    "Azure Data Factory.md",
+    "T-SQL.md",
+    "Synapse pipeline.md",
+    "Spark tables creation.md",
+    "Row level security.md",
+    "Round Robin distributed tables.md",
+    "Receivers.md",
+    "Not charged on creation of pool.md",
+    "Mapping Data Flow.md",
+    "Loading data using Poly Base.md",
+    "Linked Service.md",
+    "Large datasets and distribute computation across multiple pools.md",
+    "Integration runtime.md",
+    "Indexes.md",
+    "Recording 20231022081648.webm",
+    "Revisados",
+    "NOTKNOW",
+    "KNOW"
+  ]
+}

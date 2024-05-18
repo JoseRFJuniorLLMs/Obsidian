@@ -1,0 +1,2 @@
+- Modelos de Linguagem Pré-Treinados (como BERT, GPT, T5) podem ser usados para gerar representações densas de documentos e consultas.
+- A recuperação é realizada calculando a similaridade entre as representações dos documentos e as consultas.

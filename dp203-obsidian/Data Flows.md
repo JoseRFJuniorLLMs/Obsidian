@@ -1,0 +1,1 @@
+Data flow activities are executed as activities within [[Azure Data Factory]] pipelines that utilize scaled Apache Spark clusters. Data flow activities can be operationalized using existing scheduling, control, flow, and monitoring features of [[ADF]].

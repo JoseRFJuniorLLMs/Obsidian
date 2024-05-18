@@ -1,0 +1,2 @@
+- Algoritmos de aprendizado supervisionado ou semi-supervisionado são usados para aprender uma função de similaridade entre documentos e consultas.
+- A função de similaridade é treinada com exemplos rotulados de pares de documentos e consultas relevantes.

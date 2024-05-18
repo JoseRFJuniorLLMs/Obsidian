@@ -1,0 +1,2 @@
+- Redes siamesas são usadas para aprender representações de documentos e consultas.
+- A recuperação é realizada comparando as representações dos documentos e consultas usando uma função de similaridade.

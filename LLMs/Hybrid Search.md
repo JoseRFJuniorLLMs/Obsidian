@@ -1,0 +1,1 @@
+E uma abordagem inteligente que combina o poder da busca semântica (baseada em [[Vetores Densos]]) com a busca por palavras-chave (baseada em [[Vetores Esparsos]]).

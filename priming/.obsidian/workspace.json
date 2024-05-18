@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f387e19b1f169398",
+    "type": "split",
+    "children": [
+      {
+        "id": "32f063141c26df9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795be09bd4605b18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88beb16e99889ac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d69df79c7fbf0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272ebc6a857528dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe08b757cebbef8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "df1a43e51431f6eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "133aaab4a22a5494",
+    "type": "split",
+    "children": [
+      {
+        "id": "658615fb3ccae789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ddcfc15f969cdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2fdf948ab30fb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0f57bc7420095d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e566256e3ec72dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "795be09bd4605b18",
+  "lastOpenFiles": [
+    "img/v2.png",
+    "Word/KNOW/need.md",
+    "Word/KNOW/have.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Word/NOT_KNOW/far.md",
+    "github-archive/old/stepwise analysis.R",
+    "github-archive/old/results table.xlsx",
+    "github-archive/old/pnom app.docx",
+    "github-archive/old/all analyses.R",
+    "github-archive/old",
+    "github-archive/manuscript/variable hand out.docx",
+    "github-archive/manuscript/Variables.docx",
+    "github-archive/manuscript",
+    "github-archive/datasets/strength.SWOW-EN.R123.csv",
+    "github-archive/datasets/single_word_spp.xlsx",
+    "github-archive/README.md",
+    "README.md",
+    "I love living far from the city.md",
+    "Word/KNOW/living.md",
+    "well.md",
+    "Word/KNOW/about.md",
+    "Word/KNOW/like.md",
+    "Word/KNOW/think.md",
+    "Word/KNOW/driving.md",
+    "Word/NOT_KNOW/near.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/README.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Proximate.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Remote.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/Adjacent.md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/He has a busy schedule..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/She has both talent and determination..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/I have a good idea..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/We have a new car..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/They have to study for exams..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/She has a beautiful garden..md",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/I have a dog..md",
+    "Word/KNOW/I.md"
+  ]
+}

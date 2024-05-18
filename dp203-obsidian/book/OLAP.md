@@ -1,0 +1,1 @@
+Data is periodically loaded, aggregated and stored in cubes.

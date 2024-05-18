@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "569a558f0646726b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef85daddbc8bb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92226e229541232c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Conan Fi φ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55600bb30c436135",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f871b56c864c1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54816c7e9bfff71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7e3f9d40657cc1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77965645bee9cb18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b58e83f1ed03e565",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b83c1de19c1197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d277e9702196ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personagens/Conan Fi φ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be85578e93712917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personagens/Conan Fi φ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6f346160a962c6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3a58490e2fe3d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personagens/Conan Fi φ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92226e229541232c",
+  "lastOpenFiles": [
+    "Personagens/Conan Omega ω.md",
+    "Personagens/Conan Chi χ.md",
+    "Personagens/Blimunda del Toboso ß.md",
+    "Personagens/Mitchell Feigenbaum.md",
+    "Personagens/Karina Milei.md",
+    "Personagens/Polígona π.md",
+    "Capitulos/Amor.md",
+    "Cafeterias/Սարմունգ.md",
+    "Capitulos",
+    "Personagens/Alexandra David Néel.md",
+    "Personagens/Fracta Φ.md",
+    "Personagens/Conan Sigma Σ.md",
+    "Personagens/Conan Tau τ.md",
+    "Personagens/Conan Upsilon υ.md",
+    "Personagens/Conan Fi φ.md",
+    "Personagens/Conan Psi ψ.md",
+    "Ruas/Rua Garrett 73.md",
+    "Cafeterias/Cafeteria Madame Bovary.md",
+    "Personagens/Elon Musk.md",
+    "Personagens/Piotr Demianovitch Uspenski.md",
+    "Cafeterias/Cafeteria Café Pushkin.md",
+    "Personagens/Helena Lopes.md",
+    "Ruas/Rua Eugénio dos Santos.md",
+    "Ruas/Rua Georg Wilhelm Friedrich Hegel.md",
+    "Cafeterias/Cafeteria Martinho da Arcada.md",
+    "Ruas/Rua Terreiro do Paço.md",
+    "Ruas/Rua de Madalena.md",
+    "Estacoes",
+    "Ruas",
+    "Cafeterias",
+    "Personagens"
+  ]
+}

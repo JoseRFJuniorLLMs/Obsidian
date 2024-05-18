@@ -1,0 +1,2 @@
+- Modelos de GNN são usados para capturar a estrutura e relações entre documentos em um grafo.
+- A recuperação é realizada navegando no grafo para encontrar documentos relevantes.

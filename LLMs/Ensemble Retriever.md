@@ -1,0 +1,1 @@
+O Ensemble Retriever executa ambos os sistemas, combina suas descobertas e reclassifica os resultados para apresentar ao usuário um conjunto abrangente e matizado de documentos.
